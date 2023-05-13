@@ -1,4 +1,4 @@
-# house-price-prediction
+# House-Price-Prediction
 Generate a REGRESSION MODEL that allows a real estate company to predict the price per m2 of a property.
 
 [Presentation_Regression_m2 Properties](https://github.com/Leangonplu/house-price-prediction/blob/main/assets/Presentation_Regression_m2%20Properties.pptx)
